@@ -1,0 +1,18 @@
+header
+{
+    position: fixed;
+    width: 100%;
+}
+.listanav
+{
+    display: flex;
+    background-color: rgb(75, 141, 228);
+    color: aliceblue;
+    justify-content: center;
+
+}
+.listanav li
+{
+    list-style: none;
+    margin: 1rem;
+}
